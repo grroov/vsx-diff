@@ -173,7 +173,7 @@ export class DiffPanel {
 	public setTitle (pathA?: string, pathB?: string) {
 		
 		const labelFormat = settings.get('labelFormat');
-		let title = 'Diff Folders';
+		let title = 'Antigravity';
 		
 		if (pathA && pathB) {
 			if (labelFormat !== 'filename') {
@@ -240,7 +240,7 @@ export class DiffPanel {
 		
 		const mediaPath = path.join(context.extensionPath, 'media');
 		const iconsPath = path.join(mediaPath, 'icons');
-		const panel = vscode.window.createWebviewPanel(DiffPanel.viewType, 'Diff Folders', {
+		const panel = vscode.window.createWebviewPanel(DiffPanel.viewType, 'Antigravity', {
 			viewColumn: openToSide ? vscode.ViewColumn.Beside : vscode.ViewColumn.Active,
 		}, {
 			enableScripts: true,
@@ -349,7 +349,7 @@ function getHTMLforDiffPanel (context: vscode.ExtensionContext, webview: vscode.
 		<meta charset="UTF-8">
 		<meta http-equiv="Content-Security-Policy" content="${csp}">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Diff Folders</title>
+		<title>Antigravity</title>
 		<script nonce="${nonceToken}">
 			window.l13Settings = {
 				enablePreview: ${!!settings.get('enablePreview', false)},

@@ -29,7 +29,7 @@ export class DiffStatusBar {
 		if (!DiffStatusBar.statusBarItem) {
 			DiffStatusBar.statusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Left);
 			DiffStatusBar.statusBarItem.command = 'l13Diff.action.output.show';
-			DiffStatusBar.statusBarItem.tooltip = 'Diff Folders Output';
+			DiffStatusBar.statusBarItem.tooltip = 'Antigravity Output';
 			DiffStatusBar.statusBarItem.show();
 			context.subscriptions.push(DiffStatusBar.statusBarItem);
 		}
@@ -52,7 +52,7 @@ export class DiffStatusBar {
 	
 	public update (text = '') {
 		
-		this.currentText = `$(diff) ${text || 'Diff Folders'}`;
+		this.currentText = `$(diff) ${text || 'Antigravity'}`;
 		
 		if (DiffStatusBar.currentStatusBar === this) DiffStatusBar.statusBarItem.text = this.currentText;
 		

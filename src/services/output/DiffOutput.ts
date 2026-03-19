@@ -27,7 +27,7 @@ export class DiffOutput {
 	public constructor () {
 		
 		if (!DiffOutput.output) {
-			DiffOutput.output = vscode.window.createOutputChannel('Diff Folders');
+			DiffOutput.output = vscode.window.createOutputChannel('Antigravity');
 		}
 		
 		DiffOutput.currentOutput = this;
