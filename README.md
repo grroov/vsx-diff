@@ -41,7 +41,7 @@ Compare two folders in Antigravity.
 
 ![Diff Folders Stats](images/previews/preview-stats.png)
 
-### Supports the Extension [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
+### Supports the Extension [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
 
 ![Projects](images/previews/preview-projects.png)
 
