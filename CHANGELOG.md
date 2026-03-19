@@ -154,7 +154,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Added
 
-- Added different icons for file and folder comparsions in history view. Previous file comparison opens now in Visual Studio Code Diff Editor. Context menu requires version 0.21.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+- Added different icons for file and folder comparsions in history view. Previous file comparison opens now in Visual Studio Code Diff Editor. Context menu requires version 0.21.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
 - Added `Compare All Side By Side` to favorite groups context menu.
 - Added `l13Diff.confirmOpenMultipleDiffPanels` for `Compare All` and `Compare All Side By Side`.
 
@@ -179,7 +179,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 - Added `Compare` and `Compare in New Panel` to context menu in favorites and history view.
 - Added `Copy Left Path` and `Copy Right Path` to context menu in favorites and history view.
 - Added `l13Diff.openInNewDiffPanel`.
-- Enhanced context menu with `Reveal in Finder/Explorer`, `Open in Integrated Terminal`, `Open Workspace`, `Open as Workspace` and `Add Folders to Workspace` in favorites and history view. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+- Enhanced context menu with `Reveal in Finder/Explorer`, `Open in Integrated Terminal`, `Open Workspace`, `Open as Workspace` and `Add Folders to Workspace` in favorites and history view. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
 
 ### Fixed
 
@@ -199,7 +199,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Added
 - Added updating list view if a file or folder has been deleted in current workspace.
-- Supports new version 0.18.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
+- Supports new version 0.18.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
 - Added `Add to Favorites` to history context menu.
 
 ### Changed
@@ -300,7 +300,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 - Added ignored files to list view.
 - Added new icon to toggle view for ignored files.
 - Added ignored files to stats.
-- Added `Select for Compare` and `Compare with Selected` for extension [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
+- Added `Select for Compare` and `Compare with Selected` for extension [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
 
 ### Fixed
 - Fixed focus bug click into input fields.
@@ -391,7 +391,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 ## [0.21.0] - 2019-09-22
 
 ### Added
-- Added support for new extension [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
+- Added support for new extension [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
 - Alt + Click on swap button changes the list view, too.
 
 ## [0.20.0] - 2019-08-25
