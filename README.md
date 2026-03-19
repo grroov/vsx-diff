@@ -1,6 +1,6 @@
 # Diff Folders
 
-Compare two folders in Visual Studio Code.
+Compare two folders in Antigravity.
 
 ![Diff Folders](images/previews/preview.png)
 
@@ -361,7 +361,7 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 
 * `Click` - Drag'n drop the scrollbar thumb of the navigator to scroll the list or click elsewhere in the navigator and jump to this part of the list.
 
-### Visual Studio Code Explorer
+### Antigravity Explorer
 
 #### Context Menu
 

@@ -21,8 +21,8 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Fixed
 
-- Fixed extension crash in VS Code 1.96 [Issue 160](https://github.com/L13/vscode-diff/issues/160)
-- Fixed scrollbar style in list view. [VS Code Issue #213045](https://github.com/microsoft/vscode/issues/213045#issuecomment-2211442905)
+- Fixed extension crash in Antigravity 1.96 [Issue 160](https://github.com/L13/vscode-diff/issues/160)
+- Fixed scrollbar style in list view. [Antigravity Issue #213045](https://github.com/microsoft/vscode/issues/213045#issuecomment-2211442905)
 
 ### Changed
 
@@ -113,7 +113,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Changed
 
-- Changed default value for `l13Diff.ignoreEndOfLine` to true to match Visual Studio Code's Diff Viewer.
+- Changed default value for `l13Diff.ignoreEndOfLine` to true to match Antigravity's Diff Viewer.
 
 ### Fixed
 
@@ -148,13 +148,13 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Changed
 
-- Changed panel icon style to new VS Code icon style.
+- Changed panel icon style to new Antigravity icon style.
 
 ## [0.35.0] - 2021-05-09
 
 ### Added
 
-- Added different icons for file and folder comparsions in history view. Previous file comparison opens now in Visual Studio Code Diff Editor. Context menu requires version 0.21.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+- Added different icons for file and folder comparsions in history view. Previous file comparison opens now in Antigravity Diff Editor. Context menu requires version 0.21.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
 - Added `Compare All Side By Side` to favorite groups context menu.
 - Added `l13Diff.confirmOpenMultipleDiffPanels` for `Compare All` and `Compare All Side By Side`.
 
@@ -400,7 +400,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 - Added options to search widget to filter files and/or folders.
 - Added confirm dialog for coping files.
 - Added confirm dialog for deleting favorites.
-- Added scaling for icons on mouse down like Visual Studio Code.
+- Added scaling for icons on mouse down like Antigravity.
 
 ### Changed
 - Closing search widget doesn't clear the input field anymore.
@@ -411,7 +411,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 ## [0.19.0] - 2019-08-11
 
 ### Changed
-- New icons because Visual Studio Code has new icons.
+- New icons because Antigravity has new icons.
 - Updated screenshots for README.
 
 ### Fixed
@@ -468,7 +468,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Fixed
 - Fixed menu visiblity if path was selected and input was clicked again, but menu did not appear.
-- Fixed auto link feature of markdown in changelog for VS Code Marketplace.
+- Fixed auto link feature of markdown in changelog for Antigravity Marketplace.
 
 ## [0.14.0] - 2019-05-26
 
@@ -477,8 +477,8 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 
 ### Fixed
 - Fixed a bug if an item was select in the menu with enter, but value was not set.
-- Fixed async loading bug if VS Code for Windows is running on a virtual machine.
-- Fixed invisible selection in input fields for VS Codes default themes.
+- Fixed async loading bug if Antigravity for Windows is running on a virtual machine.
+- Fixed invisible selection in input fields for Antigravity's default themes.
 - Fixed invisible checkbox icon for light themes.
 - Fixed scroll into view bug for menu component.
 - Fixed a bug if files are selected but copy buttons were still disabled.
