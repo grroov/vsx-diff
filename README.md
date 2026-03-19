@@ -1,10 +1,10 @@
-# Antigravity Diff Folders
+# Diff Folders
 
 Compare two folders in Antigravity.
 
-![Antigravity Diff Folders](images/previews/preview.png)
+![Diff Folders](images/previews/preview.png)
 
-## What's new in Antigravity Diff Folders 1.3.0
+## What's new in Diff Folders 1.3.0
 
 - Added `Export Favorites` to export favorites and groups as a JSON file.
 - Added `Import Favorites` to import favorites and groups from a JSON file.
@@ -22,23 +22,23 @@ Compare two folders in Antigravity.
 
 ### Basics
 
-![Antigravity Diff Folders Basics](images/previews/preview-start.png)
+![Diff Folders Basics](images/previews/preview-start.png)
 
 ### Favorites
 
-![Antigravity Diff Folders Favorites](images/previews/preview-favorites.png)
+![Diff Folders Favorites](images/previews/preview-favorites.png)
 
 ### Search, Filter or Select
 
-![Antigravity Diff Folders Search](images/previews/preview-search.png)
+![Diff Folders Search](images/previews/preview-search.png)
 
 ### List and Navigator
 
-![Antigravity Diff Folders Selection](images/previews/preview-select.png)
+![Diff Folders Selection](images/previews/preview-select.png)
 
 ### Logging and Stats
 
-![Antigravity Diff Folders Stats](images/previews/preview-stats.png)
+![Diff Folders Stats](images/previews/preview-stats.png)
 
 ### Supports the Extension [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
 
@@ -335,7 +335,7 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 
 #### Context Icons
 
-* `Antigravity Diff Folders: Clear History` - Clear the history of recently used files, folders and previous comparisons.
+* `Diff Folders: Clear History` - Clear the history of recently used files, folders and previous comparisons.
 
 #### Context Menu
 
@@ -376,7 +376,7 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 * `Select for Compare` - Select a folder, repository or project for a comparison.
 * `Compare with Selected` - Compare the folder, repository or project with the selected one.
 * `Compare with Workspace` - Compare the folder, repository or project with the current workspace.
-* `Open in Antigravity Diff Folders` - Open the folder, repository or project in Antigravity Diff Folders.
+* `Open in Diff Folders` - Open the folder, repository or project in Diff Folders.
 
 ## Custom Keybindings
 
