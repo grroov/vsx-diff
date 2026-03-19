@@ -19,6 +19,7 @@ Compare two folders in Antigravity.
 1. [Workspace Trust](#workspace-trust)
 1. [Recommended Settings](#recommended-settings)
 1. [Recommended Extensions](#recommended-extensions)
+1. [Development](#development)
 
 ### Basics
 
@@ -411,3 +412,7 @@ The fastest and most accurate way to compare files is
 
 * [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
 * [Extension Pack](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-extension-pack)
+
+## Development
+
+If you'd like to build, test, or contribute to the Antigravity port of this extension, please see the [Development Guide](DEVELOPMENT.md).
