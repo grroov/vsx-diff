@@ -311,11 +311,11 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 
 * `Compare` - Start the favorite diff immediately in the current active panel. Ignores `l13Diff.openInNewDiffPanel`.
 * `Compare in New Panel` - Start the favorite diff immediately in a new diff panel. Ignores `l13Diff.openInNewDiffPanel`.
-* `Reveal in Finder/Explorer` - Reveal the left or right file/folder in the finder/explorer. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open in Integrated Terminal` - Open the left or right path in the integrated terminal. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open Workspace` - Open the left or right path as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open as Workspace` - Open the two paths as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Add Folders to Workspace` - Add the paths to the current workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
+* `Reveal in Finder/Explorer` - Reveal the left or right file/folder in the finder/explorer. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open in Integrated Terminal` - Open the left or right path in the integrated terminal. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open Workspace` - Open the left or right path as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open as Workspace` - Open the two paths as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Add Folders to Workspace` - Add the paths to the current workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
 * `Add to Group` - Add a favorite diff to a group.
 * `Copy Left Path` - Copy the left path of the favorite diff to the clipboard.
 * `Copy Right Path` - Copy the right path of the favorite diff to the clipboard.
@@ -342,11 +342,11 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 
 * `Compare` - Start the previous comparison immediately in the current active panel. Ignores `l13Diff.openInNewDiffPanel`.
 * `Compare in New Panel` [2] - Start the previous comparison immediately in a new diff panel. Ignores `l13Diff.openInNewDiffPanel`.
-* `Reveal in Finder/Explorer` - Reveal the left or right file/folder in the finder/explorer. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open in Integrated Terminal` [2] - Open the left or right path in the integrated terminal. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open Workspace` [2] - Open the left or right path as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Open as Workspace` [2] - Open the two paths as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
-* `Add Folders to Workspace` [2] - Add the paths to the current workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects).
+* `Reveal in Finder/Explorer` - Reveal the left or right file/folder in the finder/explorer. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open in Integrated Terminal` [2] - Open the left or right path in the integrated terminal. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open Workspace` [2] - Open the left or right path as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Open as Workspace` [2] - Open the two paths as a workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
+* `Add Folders to Workspace` [2] - Add the paths to the current workspace. Requires version 0.20.0 of [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects).
 * `Add to Favorites` - Add a previous comparison to favorites.
 * `Copy Left Path` - Copy the left path of the previous comparison to the clipboard.
 * `Copy Right Path` - Copy the right path of the previous comparison to the clipboard.
@@ -370,7 +370,7 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 * `Compare with Selected` - Compare the folder with the selected one.
 * `Compare Selected` - Compare the two selected folders.
 
-### [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
+### [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
 
 #### Context Menu
 
@@ -410,8 +410,8 @@ The fastest and most accurate way to compare files is
 
 ## Recommended Extensions
 
-* [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
-* [Extension Pack](https://open-vsx.org/extension/Grroov/l13-extension-pack)
+* [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
+* [Extension Pack](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-extension-pack)
 
 ## Development
 
