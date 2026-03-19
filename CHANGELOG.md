@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the "Antigravity Diff Folders" extension will be documented in this file.
+All notable changes to the "Diff Folders" extension will be documented in this file.
 
 ## [1.3.11] - 2025-06-30
 
