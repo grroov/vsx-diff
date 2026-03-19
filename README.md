@@ -411,7 +411,7 @@ The fastest and most accurate way to compare files is
 ## Recommended Extensions
 
 * [Projects](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-projects)
-* [Extension Pack](https://marketplace.visualstudio.com/items?itemName=Grroov.l13-extension-pack)
+* [Extension Pack](https://open-vsx.org/extension/Grroov/l13-extension-pack)
 
 ## Development
 
