@@ -1,5 +1,5 @@
 # Change Log
-All notable changes to the "Diff Folders" extension will be documented in this file.
+All notable changes to the "Antigravity Diff Folders" extension will be documented in this file.
 
 ## [1.3.11] - 2025-06-30
 
@@ -292,7 +292,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 - Added `Disable Case Sensitive` and `Enable Case Sensitive` to toggle `l13Diff.useCaseSensitiveFileName`.
 - Added `l13Diff.confirmCaseInsensitiveCompare` for case insensitive compare on a case sensitive file system.
 - Added `l13Diff.confirmCaseInsensitiveCopy` for case sensitive file copy on a case insensitive file system.
-- Double click on folders in list view opens new Diff Folders panel. Works also with ignored files.
+- Double click on folders in list view opens new Antigravity Diff Folders panel. Works also with ignored files.
 
 ## [0.27.0] - 2020-07-19
 
@@ -319,7 +319,7 @@ All notable changes to the "Diff Folders" extension will be documented in this f
 - Added `l13Diff.initialFavoriteGroupState` to set the initial state of the groups.
 
 ### Changed
-- Changed display name for extension from `L13 Diff` to `Diff Folders`.
+- Changed display name for extension from `L13 Diff` to `Antigravity Diff Folders`.
 
 ## [0.25.0] - 2020-06-21
 

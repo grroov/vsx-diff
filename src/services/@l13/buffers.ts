@@ -182,7 +182,7 @@ function trimAscii (buffer: Buffer, diff: Diff, modified: MODIFIED): Buffer {
 				break start;
 			}
 			if (k === j) {
-				if (cache.length === length - fixBOM) { // Fixes VS Code single space and tab line bug
+				if (cache.length === length - fixBOM) { // Fixes Antigravity/VS Code single space and tab line bug
 					const cacheLengthA = cache.length;
 					for (let l = 0; l < cacheLengthA; l++) newBuffer.push(cache[l]);
 				} else if (value === 10 || value === 13) newBuffer.push(value);
