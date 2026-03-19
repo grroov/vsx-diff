@@ -40,7 +40,7 @@ module.exports = [
 		name: 'services',
 		watch: commonScripts.concat([
 			'src/services/**/!(*.test).ts',
-			'src/views/vscode.d.ts',,
+			'src/views/vscode.d.ts',
 		]),
 		task: () => {
 			
@@ -146,7 +146,12 @@ function onwarn (warning) {
 
 function onerror (error) {
 	
-	console.error(`Error:${error.pluginCode ? ' ' + error.pluginCode : ''} ${error.message} ${error.loc.file}:${error.loc.line}:${error.loc.column}`);
+	const loc = error.loc || {};
+	const file = loc.file || '';
+	const line = loc.line || '';
+	const column = loc.column || '';
+	
+	console.error(`Error:${error.pluginCode ? ' ' + error.pluginCode : ''} ${error.message} ${file}:${line}:${column}`);
 	
 	throw error;
 	

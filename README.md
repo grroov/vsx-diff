@@ -1,6 +1,6 @@
 # Diff Folders
 
-Compare two folders in Visual Studio Code.
+Compare two folders in Antigravity.
 
 ![Diff Folders](images/previews/preview.png)
 
@@ -19,6 +19,7 @@ Compare two folders in Visual Studio Code.
 1. [Workspace Trust](#workspace-trust)
 1. [Recommended Settings](#recommended-settings)
 1. [Recommended Extensions](#recommended-extensions)
+1. [Development](#development)
 
 ### Basics
 
@@ -361,7 +362,7 @@ If `l13Diff.ignoreByteOrderMark`, `l13Diff.ignoreEndOfLine` or `l13Diff.ignoreTr
 
 * `Click` - Drag'n drop the scrollbar thumb of the navigator to scroll the list or click elsewhere in the navigator and jump to this part of the list.
 
-### Visual Studio Code Explorer
+### Antigravity Explorer
 
 #### Context Menu
 
@@ -411,3 +412,7 @@ The fastest and most accurate way to compare files is
 
 * [Projects](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-projects)
 * [Extension Pack](https://marketplace.visualstudio.com/items?itemName=L13RARY.l13-extension-pack)
+
+## Development
+
+If you'd like to build, test, or contribute to the Antigravity port of this extension, please see the [Development Guide](DEVELOPMENT.md).

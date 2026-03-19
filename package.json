@@ -1,17 +1,17 @@
 {
 	"name": "l13-diff",
 	"displayName": "Diff Folders",
-	"description": "Compare two folders in Visual Studio Code",
+	"description": "Compare two folders in Antigravity",
 	"version": "1.3.11",
-	"publisher": "L13RARY",
+	"publisher": "Grroov",
 	"license": "SEE LICENSE IN LICENSE.md",
-	"homepage": "https://github.com/l13/vscode-diff/blob/master/README.md",
+	"homepage": "https://github.com/grroov/vsx-diff/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/l13/vscode-diff.git"
+		"url": "https://github.com/grroov/vsx-diff.git"
 	},
 	"bugs": {
-		"url": "https://github.com/l13/vscode-diff/issues"
+		"url": "https://github.com/grroov/vsx-diff/issues"
 	},
 	"icon": "images/icon.png",
 	"galleryBanner": {
@@ -1306,6 +1306,7 @@
 		"mocha": "^8.4.0",
 		"rollup": "^2.47.0",
 		"sass": "^1.50.0",
+		"tslib": "^2.8.1",
 		"typescript": "^4.9.5",
 		"vscode-test": "^1.0.2"
 	}
